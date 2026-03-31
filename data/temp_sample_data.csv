@@ -1,0 +1,16 @@
+employee_id,name,department,salary,hire_date,performance_score,email,age
+1,John Smith,Engineering,85000,2021-03-15,4.2,john.smith@company.com,32
+2,Sarah Johnson,Marketing,62000,2020-07-22,3.8,sarah.j@company.com,28
+3,Mike Davis,Engineering,92000,2019-11-01,4.7,mike.davis@company.com,35
+4,Emily Brown,HR,,2022-01-10,3.5,emily.b@company.com,29
+5,James Wilson,Marketing,58000,2021-08-30,,james.w@company.com,31
+6,Lisa Anderson,Engineering,88000,2020-04-18,4.1,lisa.a@company.com,250
+7,Robert Taylor,HR,45000,2021-12-05,3.2,robert.t@company.com,27
+8,John Smith,Engineering,85000,2021-03-15,4.2,john.smith@company.com,32
+9,Jennifer Martinez,Marketing,61000,2022-05-20,3.9,,26
+10,David Garcia,Engineering,-5000,2021-09-14,4.5,david.g@company.com,33
+11,Amanda White,HR,48000,2023-13-45,3.1,amanda.w@company.com,30
+12,Christopher Lee,Marketing,63000,2022-02-28,4.0,chris.l@company.com,28
+13,Michelle Harris,Engineering,91000,2020-06-10,4.8,michelle.h@company.com,36
+14,Daniel Clark,HR,46000,2021-11-22,3.3,daniel.c@company.com,25
+15,Jessica Lewis,Marketing,59000,2022-08-15,3.7,jessica.l@company.com,27
